@@ -1,3 +1,4 @@
 test master file, change to show diff between working area vs staging
 test diff between work vs local repo
 test local vs remote repo
+changed the test branch
